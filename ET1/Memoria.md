@@ -32,16 +32,18 @@
   </div>
   <p style="font-size: 1.3rem; color: #63d297; margin: 12px 0 6px; font-weight: 600;">Trabajos grupales</p>
   <p style="margin: 0; color: #e7ecea; font-size: 0.95rem;">Vee + Apellidos <span style="color: #9fb0aa;">·</span> Sergio Creo</p>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid #5d6668; padding-bottom: 14px;">
+    <div>
 </header>
 
 </div></div>
 
 </div>
 
-# 1. Empezamos con el proyecto ^^
 
 <div style="border-left: 3px solid #63d297; padding-left: 14px; margin: 15px 0;">
 
+# 1. Empezamos con el proyecto ^^
   <div style="margin-bottom: 12px;">
     <span style="color: #63d297; font-weight: bold; font-family: monospace; font-size: 0.9rem;">[4:30]</span> 
     <span style="color: #333; font-weight: 600;">Inicio del Proyecto y elección de Alpine</span>
@@ -58,5 +60,15 @@
   </div>
 
 - Tarde Un Poco... Demas Decidiendo todo que usaria pero ahora ya Estan Las MV creadas Con port forwarding solo que Falta, bueno todo lo demas.
+
+* [X] **Asignar recursos suficientes**: Mínimo 2 vCPUs y 2 GB RAM para `master`; 1-2 vCPUs y 1.5-2 GB RAM para cada `worker`.
+
+<div style="margin-bottom: 12px;">
+    <span style="color: #63d297; font-weight: bold; font-family: monospace; font-size: 0.9rem;">[7:17]</span> 
+    <span style="color: #333; font-weight: 600;">Script Base creado</span>
+    <p style="margin: 4px 0 0; color: #666; font-size: 0.9rem;">Desarrollo en comandos de creacion</p>
+  </div>
+
+- Aqui me es muy util que me niego a usar Linus(Aunque es superior) y en vez adapto de todo a windows 
 
 </div>

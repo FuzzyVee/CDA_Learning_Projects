@@ -1,7 +1,3 @@
-# Memoria ET1 Logica de Computacion.
-
-
-
 <div style="text-align: right; margin-bottom: 12px;">
   <span style="font-size: 0.75em; background: #e0e0e0; color: #333; padding: 2px 8px; border-radius: 10px; font-weight: bold;">
      2026-10-29
@@ -15,9 +11,9 @@
 
 #### **Fase 1: Preparación del Entorno de MVs**
 
-* [ ] **Crear las 3 Máquinas Virtuales** (`master`, `worker1`, `worker2`).
-* [ ] **Asignar recursos suficientes**: Mínimo 2 vCPUs y 2 GB RAM para `master`; 1-2 vCPUs y 1.5-2 GB RAM para cada `worker`.
-* [ ] **Configurar las interfaces de red**: IP estática en red privada/host-only y acceso a Internet.
+* [x] **Crear las 3 Máquinas Virtuales** (`master`, `worker1`, `worker2`).
+* [x] **Asignar recursos suficientes**: Mínimo 2 vCPUs y 2 GB RAM para `master`; 1-2 vCPUs y 1.5-2 GB RAM para cada `worker`.
+* [x] **Configurar las interfaces de red**: IP estática en red privada/host-only y acceso a Internet.
 * [ ] **Configurar hostnames únicos**: `hostnamectl set-hostname master`, `worker1`, `worker2`.
 * [ ] **Configurar resolución DNS local**: Añadir las IPs y nombres de los 3 nodos en `/etc/hosts` de todas las MVs.
 
