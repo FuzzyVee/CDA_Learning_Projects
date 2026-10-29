@@ -2,3 +2,6 @@ __*
 IgnoreMe*
 
 *.iso
+*vms/
+ET1/vms/**
+ET1/vms/
