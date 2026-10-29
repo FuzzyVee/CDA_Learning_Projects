@@ -11,7 +11,7 @@
 
 ---
 
-### 📋 Checklist de Despliegue de Kubernetes (`kubeadm`)
+###  Checklist de Despliegue de Kubernetes (`kubeadm`)
 
 #### **Fase 1: Preparación del Entorno de MVs**
 
